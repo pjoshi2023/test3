@@ -1,4 +1,9 @@
-# 0.2.0 (2024-05-15)
+# 0.3.0 (2024-05-15)
+
+
+### Bug Fixes
+
+* fix1 ([cae1d60](https://github.com/pjoshi2023/test3/commit/cae1d60f919394c598ca484e3f1c1268362060f0))
 
 
 ### Features
