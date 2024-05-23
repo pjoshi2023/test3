@@ -21,7 +21,7 @@ dependencies {
 }
 
 group = 'io.curity.identityserver.plugins.authenticator'
-version = '7.0.0'
+version = '8.0.0'
 description = 'Curity Oidc Claims Support Authenticator'
 java.sourceCompatibility = JavaVersion.VERSION_11
 
