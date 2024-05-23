@@ -1,4 +1,4 @@
-# 3.0.0 (2024-05-23)
+# 4.0.0 (2024-05-23)
 
 
 ### Bug Fixes
@@ -11,6 +11,7 @@
 * choredrop support for Node 6 ([d2b028e](https://github.com/pjoshi2023/test3/commit/d2b028e3129ad916a610adfbd1504a6d285dd8f1))
 * commit 1 ([69666b9](https://github.com/pjoshi2023/test3/commit/69666b95c769d4aca1eb0f56e9d6d06dba0ca823))
 * commit 2 ([be8b90a](https://github.com/pjoshi2023/test3/commit/be8b90a80a51a8b8a842ef580a6403b2b5d126bf))
+* updated readme ([8b370fb](https://github.com/pjoshi2023/test3/commit/8b370fb0a6d79ab996cedcc2a12f5ef8f434126a))
 * version7 ([5538411](https://github.com/pjoshi2023/test3/commit/5538411980fc07545b476ecede07c039e17a097f))
 * version8 ([b6a8044](https://github.com/pjoshi2023/test3/commit/b6a8044c8cea99e6f79a1944f743244134268f44))
 
