@@ -15,15 +15,15 @@ repositories {
 
 dependencies {
     api 'org.bitbucket.b_c:jose4j:0.9.6'
-    compileOnly 'se.curity.identityserver:identityserver.sdk:8.6.1'
+    compileOnly 'se.curity.identityserver:identityserver.sdk:9.2.0'
     compileOnly 'org.slf4j:slf4j-api:1.7.36'
     compileOnly 'org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10'
 }
 
 group = 'io.curity.identityserver.plugins.authenticator'
-version = '8.0.0'
+version = '9.0.0'
 description = 'Curity Oidc Claims Support Authenticator'
-java.sourceCompatibility = JavaVersion.VERSION_11
+java.sourceCompatibility = JavaVersion.VERSION_21
 
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
